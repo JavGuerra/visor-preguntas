@@ -55,6 +55,10 @@ Se pueden incorporar nuevas preguntas al banco de preguntas o también intercamb
 - El nuevo banco de preguntas debe tener el nombre `bancoDePreguntas.js`, por lo que se deberá renombar el fichero del banco de preguntas actual.
 - El banco de preguntas debe tener al menos una pregunta con sus correspondientes opciones, e indicar la respuesta correcta.
 
+## Ver en línea
+
+Puede ver el programa visor en linea en: [https://javguerra.github.io/visor-preguntas/](https://javguerra.github.io/visor-preguntas/)
+
 ## Sobre el autor
 
 Este programa fue realizado por: Javier Guerra, el 27 de febrero de 2026.
